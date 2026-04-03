@@ -1,10 +1,13 @@
 📊 Customer Data Analysis using SQL
+
 📌 Project Overview
+
 This project focuses on analyzing a customer dataset containing 99,338 records using MySQL Workbench. The objective was to explore customer demographics, payment behavior, and derive meaningful insights using SQL.
 🛠 Tools & Technologies
 MySQL Workbench
 SQL
 CSV Dataset (99K+ records)
+
 🔧 Data Preparation
 Imported CSV data into MySQL database
 Cleaned dataset by removing unnecessary columns (MyUnknownColumn)
